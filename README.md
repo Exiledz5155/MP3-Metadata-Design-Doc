@@ -97,6 +97,6 @@ When a user wants to download updated audio files, the application will first up
 
 ## **References**
 
-**[DesignDoc Ideas](https://neetcode.io/courses/lessons/design-youtube)**
+**[Design Doc Ideas](https://neetcode.io/courses/lessons/design-youtube)**
 
 **[Diagram Design outline](https://neetcode.io/courses/full-stack-dev/21)**
