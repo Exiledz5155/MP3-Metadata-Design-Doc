@@ -28,13 +28,7 @@ MP3 Metadata is a web-based editor that aims to provide users with a modern and 
 
 **Link – > [Design Document](https://www.figma.com/file/iEx2E5ykn8OX7cWus3EM0w/Chakra-UI-Figma-Kit-(Community)?type=design&node-id=2854-6513&mode=design&t=Sf5QVyzZObnOAzW9-0’)**
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
+![alt_text](Design.png)
 
 
 ## **Next.js(API)**
