@@ -1,4 +1,4 @@
-## **MP3 Metadata Design**
+# **MP3 Metadata Design**
 
 
 ## **Introduction**
@@ -46,7 +46,7 @@ React will be used to build the user interface. This will allow for an interacti
 ChakraUI will be used to customize UI components to create a modern and effective website. This will allow for greater control in the design and implementation of our website through Chakra's seamless integration with React.
 
 
-### **Azure Blob (Cloud Storage)**
+## **Azure Blob (Cloud Storage)**
 
 Azure Blob will be used to store MP3 files that are uploaded by the user. This is a scalable, secure, and cost-effective way to store MP3 files.
 
@@ -61,7 +61,7 @@ MySQL will be used to store the MP3 metadata representation of the files. This i
 Prisma will be used to make interacting with MySQL easier.  Prisma will generate type-safe queries and its data modeling capabilities simplify database interactions, ensuring efficient access to MySQL.
 
 
-## **Detailed Design**
+# **Detailed Design**
 
 
 ## **User Verification**
