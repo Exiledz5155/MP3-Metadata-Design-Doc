@@ -92,7 +92,7 @@ When a user wants to download updated audio files, the application will first up
 * Standard file size limits may restrict user capabilities. 
 * Editing large MP3s ("Movie Length") is not supported.
 * Database overload is possible with rapid uploads.
-* Working with different file types(i.e. WAV files)
+* Working with different file types (i.e. WAV files).
 
 
 ## **References**
