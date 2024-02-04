@@ -1,19 +1,19 @@
 # **MP3 Metadata Design**
 
 
-### **Introduction**
+## **Introduction**
 
 This document outlines the design for a web-based MP3 metadata editor, aiming for a user-friendly interface. The project utilizes modern UI principles to enhance the metadata editing experience.
 
 
-### **Background**
+## **Background**
 
 This document outlines the design for a web-based MP3 metadata editor, aiming for a user-friendly interface. The project utilizes modern UI principles to enhance the metadata editing experience.
 
 MP3 Metadata is a web-based editor that aims to provide users with a modern and seamless interface for uploading, editing, and downloading MP3 files. 
 
 
-### **Requirements**
+## **Requirements**
 
 
 
@@ -24,7 +24,7 @@ MP3 Metadata is a web-based editor that aims to provide users with a modern and 
 * MP3 metadata website exhibits a superior aesthetic compared to competitors, showcasing an enhanced overall design and user experience
 
 
-### **High-Level Design**
+## **High-Level Design**
 
 **Link – > [Design Document](https://www.figma.com/file/iEx2E5ykn8OX7cWus3EM0w/Chakra-UI-Figma-Kit-(Community)?type=design&node-id=2854-6513&mode=design&t=Sf5QVyzZObnOAzW9-0’)**
 
@@ -85,7 +85,7 @@ To approve the efficiency of updating metadata, we are using a MySQL database. A
 When a user wants to download updated audio files, the application will first update the metadata in the MySQL database and then apply those changes to the audio file in Azure Blob. After this, the application can download the file from Azure Blob’s storage.
 
 
-### **Limitations & Future Work**
+## **Limitations & Future Work**
 
 
 
@@ -95,7 +95,7 @@ When a user wants to download updated audio files, the application will first up
 * Working with different file types(i.e. WAV files)
 
 
-### **References**
+## **References**
 
 **[DesignDoc Ideas](https://neetcode.io/courses/lessons/design-youtube)**
 
