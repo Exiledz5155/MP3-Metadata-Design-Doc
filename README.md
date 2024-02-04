@@ -31,32 +31,32 @@ MP3 Metadata is a web-based editor that aims to provide users with a modern and 
 ![alt_text](Design.png)
 
 
-## **Next.js(API)**
+## **Next.js (API)**
 
 Next.js API routes will be used for many backend functions. This includes routes to upload metadata to Azure Blob and MySQL, edit the metadata representation in MySQL, and integrate with the front end. 
 
 
-## **React.js(Javascript Library)**
+## **React.js (Javascript Library)**
 
 React will be used to build the user interface. This will allow for an interactive and dynamic website while providing many resources from the robust community surrounding React.
 
 
-## **ChakraUI(React Component Library)**
+## **ChakraUI (React Component Library)**
 
 ChakraUI will be used to customize UI components to create a modern and effective website. This will allow for greater control in the design and implementation of our website through Chakra's seamless integration with React.
 
 
-### **Azure Blob(Cloud Storage)**
+### **Azure Blob (Cloud Storage)**
 
 Azure Blob will be used to store MP3 files that are uploaded by the user. This is a scalable, secure, and cost-effective way to store MP3 files.
 
 
-## **MySQL(Relational Database)**
+## **MySQL (Relational Database)**
 
 MySQL will be used to store the MP3 metadata representation of the files. This is also where the edited metadata will be stored before the user downloads. This will allow us to store our metadata in a systematic way allowing for fast search and query of metadata.
 
 
-## **Prisma(ORM Library)**
+## **Prisma (ORM Library)**
 
 Prisma will be used to make interacting with MySQL easier.  Prisma will generate type-safe queries and its data modeling capabilities simplify database interactions, ensuring efficient access to MySQL.
 
