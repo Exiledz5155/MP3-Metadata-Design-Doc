@@ -26,7 +26,6 @@ MP3 Metadata is a web-based editor that aims to provide users with a modern and 
 
 ## **High-Level Design**
 
-**Link – > [Design Document](https://www.figma.com/file/iEx2E5ykn8OX7cWus3EM0w/Chakra-UI-Figma-Kit-(Community)?type=design&node-id=2854-6513&mode=design&t=Sf5QVyzZObnOAzW9-0’)**
 
 ![alt_text](Design.png)
 
