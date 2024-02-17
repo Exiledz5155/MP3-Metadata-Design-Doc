@@ -8,9 +8,7 @@ This document outlines the design for a web-based MP3 metadata editor, aiming fo
 
 ## **Background**
 
-This document outlines the design for a web-based MP3 metadata editor, aiming for a user-friendly interface. The project utilizes modern UI principles to enhance the metadata editing experience.
-
-MP3 Metadata is a web-based editor that aims to provide users with a modern and seamless interface for uploading, editing, and downloading MP3 files. 
+Audio files and many other types of files will often have metadata associated with them. Metadata serves as information about a specific piece of data. In this context, it includes the song title, artist name, artist album, genre, and so forth. 
 
 
 ## **Requirements**
